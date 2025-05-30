@@ -29,9 +29,9 @@ Proposiciones pueden ser oraciones, enunciados que sean afirmaciones y pueden te
 Ejemplo:
 
 1. *“La tierra es plana”* → Proposición
-2. “$3+6=8$” → Proposición
+2. “3+6=8” → Proposición
 3. *“La temperatura interna del sol es de 6000° centígrados”* → Proposición
-4. “$x+y=2y$” → Oración 
+4. “x+y=2y” → Oración 
 5. *“¿Desayunaron?”* → Pregunta
 6. *“Tome la medicina”* → Orden
 7. *“La selección Colombia ganará el partido de hoy”* → Proposición
