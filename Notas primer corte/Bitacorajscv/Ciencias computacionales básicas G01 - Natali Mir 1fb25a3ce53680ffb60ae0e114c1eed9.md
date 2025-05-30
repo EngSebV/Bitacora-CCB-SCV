@@ -1,7 +1,3 @@
-# Ciencias computacionales básicas G01 - Natali Miranda Acosta
-
-Métodos para solucionar problemas que requieren uso de computación con razonamiento y lógica.
-
 # Lógica
 
 → Estudio del razonamiento correcto
